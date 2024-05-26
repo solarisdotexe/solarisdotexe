@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### <div align="center"> <img src="https://64.media.tumblr.com/bbf64ff6b6e45e5b9685a3371665618b/42dbc5f8f187cb8c-46/s1280x1920/eac11372a9f506db44e5ee27665645ecd97f7651.gifv" width=""> </div>
 <!--
 **solarisdotexe/solarisdotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/eab1009dc939399c5148cf1bdc867968/7f14a95a9499a47b-de/s640x960/772316e32bdce0f22918381b745559aeb51085cd.gifv">
+</div>
